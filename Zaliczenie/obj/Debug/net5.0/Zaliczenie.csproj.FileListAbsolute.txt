@@ -1,0 +1,16 @@
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.exe
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.deps.json
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.runtimeconfig.json
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.runtimeconfig.dev.json
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.dll
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\ref\Zaliczenie.dll
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\bin\Debug\net5.0\Zaliczenie.pdb
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.AssemblyInfo.cs
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.dll
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\ref\Zaliczenie.dll
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.pdb
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.genruntimeconfig.cache
+C:\Users\marci\source\repos\Zaliczenie\Zaliczenie\obj\Debug\net5.0\Zaliczenie.csproj.AssemblyReference.cache
